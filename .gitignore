@@ -1,0 +1,16 @@
+GameData/Squad
+*.exe
+CSteamworks*
+saves/default
+steam_api.dll
+steam_api64.dll
+*.log
+PartDatabase.cfg
+Physics.cfg
+buildID.txt
+libCSteamworks.so
+libsteam_api.so
+readme.txt
+KSP_Data/*
+Launcher_Data/*
+settings.cfg
